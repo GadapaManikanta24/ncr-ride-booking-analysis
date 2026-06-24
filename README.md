@@ -65,7 +65,7 @@ This project identifies the root causes, quantifies their revenue impact, and tr
 ├── analysis_queries.sql        # SQL analytical queries
 ├── README.md                   # Project documentation (this file)
 └── requirements.txt            # Python dependencies list
-
+```
 ## Key Numbers
  * **Total Bookings Analyzed:** 149,000+
  * **Total Revenue Generated:** ₹46.88M
